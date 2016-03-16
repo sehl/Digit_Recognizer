@@ -1,4 +1,0 @@
-	* Grayscale
-	* 28 x 28 pixels, with value 0-255
-	* col1=label, col2-784=pixel data (as rows)
-	* test set has no label column
